@@ -5,6 +5,6 @@ An example of the same when subjected to different Illumination changes(Hazy and
 
 This is implemented on both videos as well as images:  
 
-#####Usage:
+##### Usage:
 ###### Images:  python3 stitch.py  
 ###### Videos:  python3 vid_stitch.py  
